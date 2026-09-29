@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<h1tml>
+    <head>
+<title>Konnichiwa! Japanese Culture & Lifestyle</title>
+<link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <nav class="navbar">
+        <h2>Future-Proof Japanese Innovation</h2>
+
+        <div class="nav-links">
+            <a href="#hero">Witness the Innovation</a>
+            <a href="#cards">Deconstruct the Future</a>
+            <a href="#form-section">Deploy Your Data</a>
+        </div>
+
+        </nav>
+
+        <div id="hero">
+            <span class="badge">Mirai</span>
+            <div class="hero-text">
+        <h1>Chasing the Japanese Vibe</h1>
+        <p>The perfect harmony between deep respect and smart innovation.</p>
+        <button>Dive into the Vibe</button>
+        <a href="https://www.Suica.com">Tap into Japan</a>
+        </div>
+        <img src="images.jpg.jpg" alt="Modern Tokyo buildings with bright neon lights" width="300">
+             </div>
+             <section id="Japan-nature" class="main-card">
+                <h2>Cyberpunk Tradition: The Digital Oasis</h2>
+                <div class="cards-container">
+
+        <div class="card">
+        <h2>Living in the year 300</h2>
+        <img src="images.jpg (2).jpg" alt="A smart, kind, and friendly assistant robot">
+        <p class="highlight">Japan uses robot waiters and smart vending machines to code 
+            an effortless daily life.
+        </p>
+        </div>
+        <div class="card">
+            <h3>The Day Tokyo Blurred Reality</h3>
+            <img src="images.jpg (3).jpg" alt="Is it a real giant cat or just Tokyo’s mind-bending 3D tech?">
+            <p>This massive 3D billboard is the perfect symbol of Japanese genius.
+                By mixing hyper-realistic tech with a playful soul, Tokyo successfully
+                blurred the line between digital illusion and real life.
+            </p>
+            <button>Wake Up the Cat</button>
+        </div>
+        <div class="card">
+            <h3>Where High-Tech Bows to Heritage</h3>
+            <img src="tokyo.jpg.jpg" alt="Historic Ryogoku Sumo district">
+            <P>Where ancient Sumo legends gracefully meet futuristic digital museums.</P>
+            <button>Sync with Heritage</button>
+        </div>
+    </div>
+             </section>
+
+        <div class="card">
+        <h3>where Tech Meets Zen</h3>
+        <p>Japan creates the perfect balance between futuristic innovations
+            and quiet, peaceful traditions.
+        </p>
+        <button>See the magic</button>
+        </div>
+
+         <section id="form-section" class="form-section">
+        <div class="card">
+        <h3>Join the Vibe Club</h3>
+        <form>
+            <label for="name">Choose Character Name:</label>
+            <input type="text" id="name" placeholder="Enter your anime name">
+            <label for="email">Secret Mailbox (Email): </label>
+            <input type="text" id="email" placeholder="Enter your email">   
+            <button type="button">IKUZO!</button>
+        </form>
+        </div>
+    </section>
+    <section class="banner">
+        <img src="pngtree.jpg.jpg" alt="High-speed Shinkansen bullet train symbolizing futuristic innovaation">
+
+        <div class="banner-text">
+            <h2>Chasing Tomorrow at 320 km/h</h2>
+            <p>Standing on the platform in Tokyo, you don’T just see the Shinkansen; you 
+                feel the future rushing past you. At 320 km/h, the lines between ancient traditions and 
+                cybernetic innovation blur. This is Japan-where the speed of Modern technology syncs perfectly 
+                with the heartbeat of ancestral discipline.
+            </p>
+            <button>Transmit to Mirai</button>
+        </div>
+    </section>
+    </body>
+
+</h1tml>
